@@ -1,0 +1,12 @@
+// npm is javascript package management tool
+// which is used to  create project in js and is default available when node is installed
+//npmjs.com >> global repo for serving package
+
+// command
+// npm -v // version check
+// npm init >>create package.json file for project introduction
+// //package.jason file >> project introductory part  >> try to put correct info in it
+// npm install <package-name>  >> it will install package from npmjs.com to local project
+// // installed package will be in node_modules folder
+// npm uninstall <package-name> 
+
